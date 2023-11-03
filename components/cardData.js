@@ -31,7 +31,7 @@ const cardData = [
     },
 
         {
-      name: " isha ananya",
+      name: " ISHA SHUKLA",
       favDomain: "Web development",
       link: "https://github.com/isha-shukla31"
       
